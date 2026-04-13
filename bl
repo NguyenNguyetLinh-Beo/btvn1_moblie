@@ -13,3 +13,7 @@ Vào: https://dash.cloudflare.com
 Nhấn Add site
 Nhập domain
 Cloudflare sẽ cho 2 nameserver (NS)
+4. Gắn NS vào trang mua domain
+Vào web mua domain
+Tìm phần DNS / Nameserver
+Thay bằng NS của Cloudflare
