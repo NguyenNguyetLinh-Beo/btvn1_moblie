@@ -1,0 +1,15 @@
+1. Đăng ký domain
+Vào mấy web như:
+matbao.net
+tenten.vn
+Chọn:
+.id.vn (free nếu ≤ 23 tuổi)
+hoặc .io.vn (~30k/năm)
+
+Tạo tài khoản Cloudflare
+Vào: https://dash.cloudflare.com
+Đăng ký account
+3. Thêm domain vào Cloudflare
+Nhấn Add site
+Nhập domain
+Cloudflare sẽ cho 2 nameserver (NS)
