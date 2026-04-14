@@ -18,7 +18,7 @@ Nhập 2 dòng namespace của cloudflare vào trong trang quản lý DNS record
 
 1. Đăng ký tên miền cá nhân: nguyetlinh.id.
 # Đăng ký tên miền cá nhân: nguyetlinh.id.
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/83d10810-2092-4e7e-b9dd-411eb2865332" />  
+<img width="1919" height="760" alt="image" src="https://github.com/user-attachments/assets/9e9d2a30-b90c-4751-a7f8-e97a6e9e4cf5" />
 2. Đăng ký tài khoản Cloudfare
 # Đăng ký tài khoản Cloudfare và thao tác 
 <img width="1910" height="715" alt="Screenshot 2026-04-13 222836" src="https://github.com/user-attachments/assets/db1c799e-d39a-43cb-8164-da5b108919d8" />  
